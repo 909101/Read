@@ -10,4 +10,4 @@
 
 [【知乎】图书馆30秒](https://github.com/909101/Read/wiki/%E3%80%90%E7%9F%A5%E4%B9%8E%E3%80%91%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92)
 
-[洞穴奇案 The Case of the Speluncean Explorers](https://github.com/909101/Read/wiki/%E6%B4%9E%E7%A9%B4%E5%A5%87%E6%A1%88-The-Case-of-the-Speluncean-Explorers)
+[《洞穴奇案 The Case of the Speluncean Explorers》]([https://github.com/909101/Read/wiki/%E6%B4%9E%E7%A9%B4%E5%A5%87%E6%A1%88-The-Case-of-the-Speluncean-Explorers](https://github.com/909101/Read/wiki/%E3%80%8A%E6%B4%9E%E7%A9%B4%E5%A5%87%E6%A1%88-The-Case-of-the-Speluncean-Explorers%E3%80%8B))
